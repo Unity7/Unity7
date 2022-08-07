@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey My Name is Bay Bui. I am a Tech Enthusiast. I am looking forward to learn new skills and add them in the list.
+Hey My Name is Bay Bui. I am a Tech Enthusiast. I am looking forward to learning new skills and add them in the list.
 
 
 ## Coding Profiles

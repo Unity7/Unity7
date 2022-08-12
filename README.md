@@ -12,7 +12,7 @@ Hey My Name is Bay Bui. I am a Tech Enthusiast. I am looking forward to learning
 ## Coding Profiles
 
 <a href="https://unity7.github.io/bay-portfolio/">
-  <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  View my portfolio
 </a>
 
 

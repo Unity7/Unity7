@@ -6,8 +6,8 @@
 
 ## About Me
 
-Hey My Name is Bay Bui. I am a Tech Enthusiast. I am looking forward to learning new skills and add them in the list.
-
+Hey My Name is Bay Bui. I am enthusiastic about techonology, finance, and investments. I graduated from the University of California, Los Angeles for my undergraduate. 
+I do fine arts and am a collector. I enjoy sports, fitness, biking, and meditation. 
 
 ## Coding Profiles
 

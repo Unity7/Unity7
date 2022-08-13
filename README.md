@@ -56,11 +56,11 @@ I do fine arts and am a collector. I enjoy sports, fitness, biking, and meditati
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-    </tr>
-      <td width="25%" align="center">
+            <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
+
     </tr>
   </tbody>
 </table>

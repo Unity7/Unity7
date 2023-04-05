@@ -8,7 +8,7 @@
 
 Hey My Name is Bay Bui. I am enthusiastic about techonology, finance, and investments. I graduated from the University of California, Los Angeles for my undergraduate.
 I continued my education with the UCLA Coding bootcamp extension program where I fell in love with technology and coding. 
-I do fine arts and am a collector. I enjoy sports, fitness, biking, and meditation. 
+I am an fine artist and a fine arts collector. I enjoy sports, fitness, biking, and meditation. 
 
 ## Coding Profiles
 
